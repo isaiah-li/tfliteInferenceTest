@@ -2,7 +2,7 @@
 
 ## pose tracking
 
-###reference
+### reference
 ![pose tracking](https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md)
 
 ### 'cv2' has no attribute '_registerMatType 问题解决
